@@ -216,3 +216,15 @@
 /Users/furkan/RiderProjects/WebApplication1/WebApplication1/bin/Debug/net10.0/AutoMapper.dll
 /Users/furkan/RiderProjects/WebApplication1/WebApplication1/bin/Debug/net10.0/FluentValidation.dll
 /Users/furkan/RiderProjects/WebApplication1/WebApplication1/bin/Debug/net10.0/FluentValidation.DependencyInjectionExtensions.dll
+/Users/furkan/RiderProjects/WebApplication1/WebApplication1/obj/Debug/net10.0/WebApplication1.sourcelink.json
+/Users/furkan/RiderProjects/WebApplication1/WebApplication1/bin/Debug/net10.0/Serilog.dll
+/Users/furkan/RiderProjects/WebApplication1/WebApplication1/bin/Debug/net10.0/Serilog.AspNetCore.dll
+/Users/furkan/RiderProjects/WebApplication1/WebApplication1/bin/Debug/net10.0/Serilog.Extensions.Hosting.dll
+/Users/furkan/RiderProjects/WebApplication1/WebApplication1/bin/Debug/net10.0/Serilog.Extensions.Logging.dll
+/Users/furkan/RiderProjects/WebApplication1/WebApplication1/bin/Debug/net10.0/Serilog.Formatting.Compact.dll
+/Users/furkan/RiderProjects/WebApplication1/WebApplication1/bin/Debug/net10.0/Serilog.Settings.Configuration.dll
+/Users/furkan/RiderProjects/WebApplication1/WebApplication1/bin/Debug/net10.0/Serilog.Sinks.Console.dll
+/Users/furkan/RiderProjects/WebApplication1/WebApplication1/bin/Debug/net10.0/Serilog.Sinks.Debug.dll
+/Users/furkan/RiderProjects/WebApplication1/WebApplication1/bin/Debug/net10.0/Serilog.Sinks.File.dll
+/Users/furkan/RiderProjects/WebApplication1/WebApplication1/bin/Debug/net10.0/SharpGrip.FluentValidation.AutoValidation.Mvc.dll
+/Users/furkan/RiderProjects/WebApplication1/WebApplication1/bin/Debug/net10.0/SharpGrip.FluentValidation.AutoValidation.Shared.dll
